@@ -1,0 +1,12 @@
+.numbers_wrapper {
+  display: flex;
+  background-color: #a8ffae;
+}
+
+.even-numbers {
+  width: 50%;
+}
+
+.odd-numbers {
+  width: 50%;
+}
